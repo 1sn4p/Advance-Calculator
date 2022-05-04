@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advance Calculator", "Advance Calculator.csproj", "{B700EF56-F498-4E4F-A142-543460C4F651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B700EF56-F498-4E4F-A142-543460C4F651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B700EF56-F498-4E4F-A142-543460C4F651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B700EF56-F498-4E4F-A142-543460C4F651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B700EF56-F498-4E4F-A142-543460C4F651}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B18F1717-793A-44D1-97B9-5B6FAFF73956}
+	EndGlobalSection
+EndGlobal
